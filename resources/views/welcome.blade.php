@@ -20,7 +20,6 @@
             <img src="{{ asset('asset/Logo.png') }}" alt="" class="w-8 h-8 md:w-10 md:h-10">
             GrowLocal
         </div>
-
         <div class="hidden md:flex items-center gap-6 lg:gap-8">
             <div class="group relative">
                 <a href="/" class="flex items-center text-black hover:text-blue-600">
